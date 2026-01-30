@@ -21,7 +21,7 @@ jobs:
         run: |
             python -m pip install --upgrade pip
             pip install -r requirements.txt
-            mdslides presentation.md --include example/media
+            mdslides presentation.md --include media
       - name: Upload static files as artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
