@@ -36,7 +36,7 @@ Backend developer / Packaged software
 
 
 [comment]: # (!!!)
-# Platform / Insurance
+Platform / Insurance
 
 | Insights | Hindrances |
 |----------|---------------|
@@ -48,3 +48,16 @@ Note:
 * Industries were convinced they could convert BAs to devs in 2018.
 * The value was encoding the decisions. Anyone can learn to program
     * DSLs, low-code, Appian/Guidewire, well before LLMs
+
+[comment]: # (!!!)
+Reliability & Scale in the finance industry
+
+[comment]: # (!!!)
+# Chasing trends (a bit late)
+
+[comment]: # (!!!)
+# Career hype cycles 
+
+[comment]: # (!!!)
+
+# More insight with less overhead
