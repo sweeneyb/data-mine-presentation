@@ -98,7 +98,7 @@ Notes:
 - (pretty much any office perk)
 
 Notes:
-* The disappear
+* They disappear
 * cheap differentiation when competition is tough
 
 [comment]: # (!!! data-auto-animate)
@@ -108,6 +108,9 @@ Notes:
 
 Notes:
 * exchange capital for forward revenue with minimal ongoing cost
+* Get more revenue
+* Reduce costs
+* Operate larger fleets of compute/storage
 
 [comment]: # (!!!)
 
@@ -117,13 +120,38 @@ Notes:
 | Insurance (General) | $213,061.80 |
 | Retail (Grocery) | $114,049.04 |
 | Software (internet) | $148,811.01 | 
-| Brokerage & Investment Banking | $3,401,397.82 | 
+| Restaurant/Dining | $32,100.95 | 
+
+
+<small>
+source: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html
+</small>
 
 [comment]: # (!!!)
 
 ![revenue per employee](images/revenuePerEmployee.jpg) 
+
+Notes: 
+* companies run code written a decade ago
 [comment]: # (!!!)
 
+## We're automation specialists
+* working across industries
+* increasing in-industry leverage
+* moving on
+
+Notes:
+* Moving on is a different career model than in-industry folks
+
+[comment]: # (!!!)
+
+## Examples from CNA
+* Replacing quoting system
+* CloudFoundry to GKE
+* Time to market for new LoB
+* latency within quote requests
+
+[comment]: # (!!!)
 
 # Chasing trends (a bit late)
 
