@@ -1,8 +1,8 @@
 [comment]: # (THEME = black)
 [comment]: # (CODE_THEME = base16/zenburn)
 
-# No industry pays for code
-A few of my past misconceptions
+# I've never been paid to code
+A few of my industry misconceptions
 
 Note:
 * Quinten and Maggie asked me here to give some industry perspective
@@ -10,6 +10,7 @@ Note:
 * Let's get into a few things I've worked on
 
 [comment]: # (!!!)
+
 
 # Bio
 * Backend developer at a company selling packaged software (analytics)
@@ -31,46 +32,21 @@ Note:
 
 
 [comment]: # (!!!)
-Backend developer / Packaged software
+
+
 
 | Insights | Hindrances |
 |--------|-----------------|
 | very focused on the process of building software| Very removed from value|
 | exposure to mulitple industries/verticals | very removed from operations |
-
-
-
-[comment]: # (!!!)
-
-Reliability & Scale in the finance industry
+| See how uniqely each industry scores competitors| Not a wide support matrix |
+| How to manage constrained talent supply | working with constrained talent   |
 
 Notes:
-* Ethics & compliance are just as important as hard skills
-* transition to what industry expects
-
-
-[comment]: # (!!!)
-
-### Myths and misunderstandings
-
-[comment]: # (!!! data-auto-animate)
-
-### Myths and misunderstandings
-
-- I want a job that hires me to just code
-
-Notes:
-* The "just code" is narrow tasks from seniors
-
-[comment]: # (!!! data-auto-animate)
-
-### Myths and misunderstandings
-
-- I want a job that hires me to just code
-- I want to be just a FE/BE/data person
-
-Notes:
-* It's always been full stack; j2ee deploys + DB2
+* Platforms and DX is hugely important when working with BAs converted to devs
+* Industries were convinced they could convert BAs to devs in 2018.
+* The value was encoding the decisions. Anyone can learn to program
+    * DSLs, low-code, Appian/Guidewire, well before LLMs
 
 [comment]: # (!!! data-auto-animate)
 
@@ -84,18 +60,8 @@ Notes:
 * They disappear
 * cheap differentiation when competition is tough
 
-[comment]: # (!!! data-auto-animate)
-
-
-# Leverage
-
-Notes:
-* exchange capital for forward revenue with minimal ongoing cost
-* Get more revenue
-* Reduce costs
-* Operate larger fleets of compute/storage
-
 [comment]: # (!!!)
+# Leverage
 
 | Industry | Revenue per employee |
 |----------|---------------|
@@ -105,10 +71,16 @@ Notes:
 | Software (internet) | $148,811.01 | 
 | Restaurant/Dining | $32,100.95 | 
 
-
 <small>
 source: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html
 </small>
+
+Notes:
+* exchange capital for forward revenue with minimal ongoing cost
+* Get more revenue
+* Reduce costs
+* Operate larger fleets of compute/storage
+
 
 [comment]: # (!!!)
 
@@ -116,36 +88,6 @@ source: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.ht
 
 Notes: 
 * companies run code written a decade ago
-[comment]: # (!!!)
-
-## We're automation specialists
 * working across industries
 * increasing in-industry leverage
-* moving on
-
-Notes:
 * Moving on is a different career model than in-industry folks
-
-[comment]: # (!!!)
-
-## Examples from CNA
-* Replacing quoting system
-* CloudFoundry to GKE
-* Time to market for new LoB
-* latency within quote requests
-
-[comment]: # (!!!)
-
-# Chasing trends (a bit late)
-
-[comment]: # (!!!)
-# Career hype cycles 
-
-[comment]: # (!!!)`
-
-# More insight with less overhead
-
-[comment]: # (!!!)
-
-
-
