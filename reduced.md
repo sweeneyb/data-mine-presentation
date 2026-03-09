@@ -91,3 +91,13 @@ Notes:
 * working across industries
 * increasing in-industry leverage
 * Moving on is a different career model than in-industry folks
+
+[comment]: # (!!!)
+
+<small>
+source: https://github.com/kamranahmedse/developer-roadmap/tree/master/public/pdfs/roadmaps
+</small>
+
+![backend roadmap](images/backend.png) ![devops roadmap](images/devops.png) 
+
+
