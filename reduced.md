@@ -17,6 +17,19 @@ Note:
 * Fullstack and platform developer in the P&C insurance industry
 * Reliability & operations engineer within financial services
 
+Notes:
+* Hired to support build systems
+* Moved to Query/Reporting, then down stack to platform
+
+* Platforms and DX is hugely important when working with BAs converted to devs
+* Industries were convinced they could convert BAs to devs in 2018.
+* The value was encoding the decisions. Anyone can learn to program
+    * DSLs, low-code, Appian/Guidewire, well before LLMs
+
+* Ethics & compliance are just as important as hard skills
+* transition to what industry expects
+
+
 [comment]: # (!!!)
 
 # Themes
@@ -32,8 +45,6 @@ Note:
 
 
 [comment]: # (!!!)
-
-
 
 | Insights | Hindrances |
 |--------|-----------------|
@@ -54,11 +65,10 @@ Notes:
 
 - I want a job that hires me to just code
 - I want to be just a FE/BE/data person
-- (pretty much any office perk)
+- I want to avoid failure
 
 Notes:
-* They disappear
-* cheap differentiation when competition is tough
+* Ask if they have preconceptions?
 
 [comment]: # (!!!)
 # Leverage
@@ -87,6 +97,12 @@ Notes:
 ![revenue per employee](images/revenuePerEmployee.jpg) 
 
 Notes: 
+* stories
+    * we're automation specialists to the business (Matt mappint story)
+    * Replacing quoting system
+    * CloudFoundry to GKE
+    * Time to market for new LoB
+    * latency within quote requests
 * companies run code written a decade ago
 * working across industries
 * increasing in-industry leverage
@@ -100,4 +116,20 @@ source: https://github.com/kamranahmedse/developer-roadmap/tree/master/public/pd
 
 ![backend roadmap](images/backend.png) ![devops roadmap](images/devops.png) 
 
+Notes:
+Section: "I want to be just a FE/BE/data person"
+* This is A path.. or a guideline  
 
+[comment]: # (!!!)
+
+https://sre.google/sre-book/embracing-risk/
+
+"Extreme reliability comes at a cost: maximizing stability limits how fast new features can be developed and how quickly products can be delivered to users"
+
+Notes: 
+Section: "I want to avoid failure"
+* CNA story of losing a PV disk for the data team
+* Smart risk: really weigh potential gains/loses
+* Risk of change.. or not changing
+
+I'm at risk for talking too long

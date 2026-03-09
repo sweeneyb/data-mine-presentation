@@ -1,8 +1,9 @@
 [comment]: # (THEME = black)
 [comment]: # (CODE_THEME = base16/zenburn)
 
-# No industry pays for code
-A few of my past misconceptions
+# A Career in the software industry
+
+And the focus on leveraged value
 
 Note:
 * Quinten and Maggie asked me here to give some industry perspective
@@ -38,7 +39,23 @@ Backend developer / Packaged software
 | very focused on the process of building software| Very removed from value|
 | exposure to mulitple industries/verticals | very removed from operations |
 
+Notes:
+* Hired to support build systems
+* Moved to Query/Reporting, then down stack to platform
 
+[comment]: # (!!!)
+Platform / Insurance
+
+| Insights | Hindrances |
+|----------|---------------|
+| See how uniqely each industry scores competitors| Not a wide support matrix |
+| How to manage constrained talent supply | working with constrained talent   |
+
+Note:
+* Platforms and DX is hugely important when working with BAs converted to devs
+* Industries were convinced they could convert BAs to devs in 2018.
+* The value was encoding the decisions. Anyone can learn to program
+    * DSLs, low-code, Appian/Guidewire, well before LLMs
 
 [comment]: # (!!!)
 
@@ -149,3 +166,18 @@ Notes:
 
 
 
+
+# More insight with less overhead
+
+
+[comment]: # (!!!)
+
+# More insight with less overhead
+
+[comment]: # (!!!)
+
+# More insight with less overhead
+
+[comment]: # (!!!)
+
+# More insight with less overhead
